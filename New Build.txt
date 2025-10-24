@@ -1,0 +1,20 @@
+New Build
+HTML chart that looks like how to use gex video
+produce bars, spot, and abs line
+also produce levels and level conversions
+also produce ninjat txt for indicator that produces levels including abs
+tiny host the html for trey
+add call volume and put volume to the chart just like the video
+add legend at top to be able turn off on any levels
+mix gex and volume gex in the same chart
+
+
+GEX-OI, GEX-VOL, ABS-OI, ABS-VOL, Call-VOL, Put-VOL
+
+Add overall gamma bar for oi and vol below table
+
+half moon speedometer below table
+
+
+
+
